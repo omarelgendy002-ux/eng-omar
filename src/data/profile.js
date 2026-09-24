@@ -1,0 +1,36 @@
+export const profile = {
+  name: 'Eng. Omar Elgendy',
+  nameAr: 'مهندس. عمر الجندي',
+  role: 'Artificial Intelligence Student',
+  roleAr: 'طالب في مجال الذكاء الاصطناعي',
+  university: 'Menoufia University',
+  universityAr: 'جامعة المنوفية',
+  field: 'Artificial Intelligence',
+  fieldAr: 'الذكاء الاصطناعي',
+  location: 'Sirs Ellyan, Menoufia, Egypt',
+  locationAr: 'سرس الليان، المنوفية، مصر',
+  phone: '+201032853311',
+  whatsappUrl: 'https://wa.me/201032853311',
+  telegramUrl: 'https://t.me/omarelgendyy6',
+  photo: './images/omar.jpg',
+  description:
+    'A student in artificial intelligence interested in software development, AI technologies, and interactive digital solutions. I learn quickly, can work under pressure, and stay committed for long periods to turn ideas into practical projects.',
+  descriptionAr:
+    'طالب في مجال الذكاء الاصطناعي مهتم بتطوير البرمجيات وتقنيات الذكاء الاصطناعي وبناء الحلول الرقمية التفاعلية. أتعلم بسرعة، وأستطيع العمل تحت ضغط، كما أستطيع الالتزام لفترات طويلة لإنجاز المهام وتحويل الأفكار إلى مشاريع عملية.',
+  skills: [
+    'Artificial Intelligence',
+    'Programming',
+    'Web Development',
+    'Problem Solving',
+    'Fast Learning',
+    'Working Under Pressure',
+  ],
+  skillsAr: [
+    'الذكاء الاصطناعي',
+    'البرمجة',
+    'تطوير الويب',
+    'حل المشكلات',
+    'التعلم السريع',
+    'العمل تحت ضغط',
+  ],
+}

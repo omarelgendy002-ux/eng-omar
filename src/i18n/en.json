@@ -1,0 +1,15 @@
+{
+  "nav": { "home": "Home", "about": "About", "skills": "Skills", "projects": "Projects", "services": "Services", "contact": "Contact" },
+  "hero": { "eyebrow": "ENTER OMAR'S DIGITAL WORLD", "title": "Eng. Omar Elgendy", "role": "Artificial Intelligence Student", "university": "Menoufia University", "ctaWork": "Explore My Work", "ctaContact": "Contact Me", "ctaAi": "Talk to Omar AI" },
+  "about": { "label": "About Me", "title": "Curious by default. Practical by design.", "name": "Name", "university": "University", "field": "Field", "interests": "Interests", "skills": "Skills" },
+  "skills": { "label": "Skills", "title": "Core areas I am developing", "note": "No artificial percentages — progress is shown through focus areas instead." },
+  "projects": { "label": "Projects", "title": "A portfolio that stays honest", "note": "Only verified projects belong here. Placeholders make future additions easy.", "github": "GitHub", "demo": "Live Demo", "placeholder": "Placeholder" },
+  "services": { "label": "Services & Interests", "title": "What I enjoy building", "web": "Web Development", "interactive": "Interactive Websites", "ai": "AI Solutions", "automation": "Automation", "note": "These are areas of interest and development, not claims of commercial experience." },
+  "assistant": { "label": "AI Assistant", "title": "Ask Omar AI", "text": "A local demo assistant that answers from Omar's verified profile without requiring a backend or API key.", "open": "Open Assistant" },
+  "contact": { "label": "Contact", "title": "Let's start with a message", "whatsapp": "WhatsApp", "telegram": "Telegram", "phone": "WhatsApp Number" },
+  "footer": { "student": "Artificial Intelligence Student", "privacy": "Privacy", "rights": "All rights reserved." },
+  "forms": { "requestTitle": "Submit a Request", "complaintTitle": "Submit a Complaint", "name": "Name", "phone": "Phone", "subject": "Subject", "description": "Description", "type": "Type", "sendWhatsApp": "Prepare WhatsApp Message", "close": "Close", "requestTypes": ["Website", "Interactive Experience", "AI Idea", "Automation", "Other"], "complaintTypes": ["Service", "Content", "Technical", "Other"], "required": "Please complete the required fields." },
+  "privacy": { "title": "Privacy & Experience", "text": "This site can use basic browser/device details only after you choose to allow them. It does not read passwords, files, contacts, camera or microphone data.", "agree": "Agree", "decline": "Decline" },
+  "errors": { "robotMissing": "3D robot model not found — showing the built-in cinematic fallback.", "photoMissing": "Profile photo could not be loaded.", "whatsapp": "WhatsApp could not be opened. You can use the displayed number instead.", "ai": "The demo assistant is offline." },
+  "ai": { "name": "Omar AI Assistant", "welcome": "Hi! I'm Omar's local portfolio assistant. Ask me about Omar, his study field, skills, or how to contact him.", "placeholder": "Ask a question...", "send": "Send", "clear": "Clear", "minimize": "Minimize", "close": "Close", "typing": "Thinking..." }
+}

@@ -1,0 +1,26 @@
+export const projects = [
+  {
+    id: 'project-1',
+    title: 'Project Placeholder',
+    titleAr: 'مشروع تجريبي',
+    description: 'A reserved slot for a real project. Replace this card from src/data/projects.js when a verified project is ready to publish.',
+    descriptionAr: 'مكان مخصص لإضافة مشروع حقيقي. استبدل هذه البطاقة من ملف src/data/projects.js عند تجهيز مشروع موثق.',
+    technologies: ['React', 'JavaScript', 'CSS'],
+    image: './images/omar.jpg',
+    github: '',
+    demo: '',
+    placeholder: true,
+  },
+  {
+    id: 'project-2',
+    title: 'Add Your Next Project',
+    titleAr: 'أضف مشروعك القادم',
+    description: 'This portfolio intentionally avoids invented work. Add a real project, its technologies, and working links here.',
+    descriptionAr: 'هذا الموقع يتجنب اختراع أعمال غير حقيقية. أضف مشروعًا حقيقيًا وتقنياته وروابطه هنا.',
+    technologies: ['Your stack'],
+    image: './images/omar.jpg',
+    github: '',
+    demo: '',
+    placeholder: true,
+  },
+]
